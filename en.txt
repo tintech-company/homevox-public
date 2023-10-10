@@ -1,0 +1,120 @@
+0:["1awgBcFIEEB9c7i6simlc",[[["",{"children":["en",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+3:HL["/_next/static/css/f68f5d1b59b40135.css","style",{"crossOrigin":""}]
+4:I{"id":1443,"chunks":["272:static/chunks/webpack-c90e455c1a3af50c.js","971:static/chunks/fd9d1056-bdbc21787612b876.js","864:static/chunks/864-5b2a0e4b041824d8.js"],"name":"","async":false}
+5:I{"id":8639,"chunks":["272:static/chunks/webpack-c90e455c1a3af50c.js","971:static/chunks/fd9d1056-bdbc21787612b876.js","864:static/chunks/864-5b2a0e4b041824d8.js"],"name":"","async":false}
+7:I{"id":6964,"chunks":["679:static/chunks/679-bd6769df0fac639b.js","479:static/chunks/app/en/page-4959e2c79da53c09.js"],"name":"Image","async":false}
+8:I{"id":7382,"chunks":["679:static/chunks/679-bd6769df0fac639b.js","479:static/chunks/app/en/page-4959e2c79da53c09.js"],"name":"ContactUs","async":false}
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"HomeVox"}],["$","meta","2",{"name":"description","content":"The new CRM For Realtors"}],["$","meta","3",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:T8a0,
+  <div class="privacy-text">
+    <p>Privacy Policy</p>
+    <p>Effective Date: 20/09/2023</p>
+    <p></p>
+    <p>
+      1. Introduction Welcome to Homevox.eu ("Website"). We are committed to
+      protecting your privacy and complying with applicable data protection laws,
+      including the General Data Protection Regulation (GDPR). This Privacy Policy
+      explains how we collect, use, and safeguard your personal data when you use
+      our Website.
+    </p>
+    <p></p>
+    <p>
+      2. Information We Collect We may collect various types of personal
+      information, including but not limited to: Contact Information (e.g., name,
+      email address) Demographic Information (e.g., age, gender) Usage Data (e.g.,
+      IP address, browser type, pages visited) Cookies and Tracking Technologies
+    </p>
+    <p></p>
+    <p>
+      3. How We Use Your Information We use your personal data for the following
+      purposes: To provide and maintain the Website To personalize your experience
+      To improve our services To send marketing communications (with your consent)
+      To comply with legal obligations
+    </p>
+    <p></p>
+    <p>
+      4. Data Sharing and Disclosure We may share your data with: Service Providers
+      Legal Authorities Business Partners (with your consent)
+    </p>
+    <p></p>
+    <p>
+      5. Your Rights You have the right to: Access, correct, or delete your personal
+      data Object to processing Restrict processing Data portability Withdraw
+      consent (if applicable)
+    </p>
+    <p></p>
+    <p>
+      6. Security We take appropriate measures to protect your data from
+      unauthorized access and disclosure.
+    </p>
+    <p></p>
+    <p>
+      7. Cookies We use cookies and similar tracking technologies. You can manage
+      your cookie preferences through your browser settings.
+    </p>
+    <p></p>
+    <p>
+      8. Changes to This Privacy Policy We may update this Privacy Policy from time
+      to time. Please review it periodically for changes.
+    </p>
+    <p></p>
+    
+    <p>
+      9. Contact Us If you have any questions or concerns about this Privacy Policy
+      or our data practices, please contact us at info@homevox.eu
+    </p>
+  </div>
+  a:T670,
+  <div class="privacy-text">
+    <p>Terms and Conditions</p>
+    <p>Effective Date: 20/09/2023</p>
+    <p></p>
+    <p></p>
+
+    <p>
+      1. Acceptance of Terms By using this Website, you agree to comply with and
+      be bound by these Terms and Conditions.
+    </p>
+    <p></p>
+    <p>
+      2. User Conduct You agree not to: Violate any laws or regulations Infringe
+      upon the rights of others Upload or transmit harmful software or content
+      Engage in unauthorized access or use of the Website
+    </p>
+    <p></p>
+    <p>
+      3. Intellectual Property All content on this Website is protected by
+      copyright and other intellectual property laws. You may not use or reproduce
+      our content without permission.
+    </p>
+    <p></p>
+    <p>
+      4. Disclaimer of Warranties We make no representations or warranties
+      regarding the accuracy or availability of the Website. Your use of the
+      Website is at your own risk.
+    </p>
+    <p></p>
+    <p>
+      5. Limitation of Liability We shall not be liable for any direct, indirect,
+      incidental, consequential, or punitive damages arising out of your use of
+      the Website.
+    </p>
+
+    <p></p>
+    <p>
+      6. Governing Law These Terms and Conditions are governed by the laws of
+      Belgium country.
+    </p>
+    <p></p>
+    <p>
+      7. Changes to Terms We may modify these Terms and Conditions at any time.
+      Your continued use of the Website after changes constitutes acceptance.
+    </p>
+    <p></p>
+    <p>
+      8. Contact Us If you have any questions about these Terms and Conditions,
+      please contact us at info@homevox.eu
+    </p>
+  </div>
+  1:[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"shortcut icon","href":"favicon.ico","type":"image/x-icon"}]}],["$","body",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"childProp":{"current":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","en","children"],"loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L6",["$","main",null,{"className":"","children":["$","div",null,{"className":"main_main__kZg5Z container","children":["$","div",null,{"className":"undefined grid grid-cols-12 flex","children":[["$","div",null,{"className":"col-span-12 lg:col-span-9 gap-4","children":[["$","div",null,{"className":"main_brand__xCUHW","children":[["$","$L7",null,{"src":"/img/brand.svg","alt":"brand","width":276,"height":72}],["$","span",null,{"children":"Coming Soon ..."}]]}],["$","h1",null,{"className":"main_homeTitle__dHItz","children":["The new"," ",["$","span",null,{"className":"purple","children":"CRM"}]," ","For"," ",["$","span",null,{"className":"green","children":"Realtors"}]]}]]}],["$","div",null,{"className":"col-span-12 lg:col-span-3","children":["$","$L8",null,{"langResource":{"the_new":"The new","crm":"CRM","for":"For","realtors":"Realtors","comingSoon":"Coming Soon ...","contactUsVia":"Contact us via","writeYourEmailAddress":"Write your email address address","describeYourNeededFeatures":"Describe your needed features","acceptThe":"Accept the","termOfCondition":"term of service","privacyPolicy":"Privacy policy","emailAddress":"email address","writeHere":"Write here","privacyPolicyNote":"$9","termsEndConditionNote":"$a"}}]}],["$","div",null,{"className":"main_contact__8Qxmf col-span-12","children":[["$","div",null,{"className":"$undefined","children":["Contact us via"," :"]}],["$","div",null,{"className":"$undefined","children":"Info@homevox.eu"}]]}]]}]}]}],null],"segment":"__PAGE__"},"styles":[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f68f5d1b59b40135.css","precedence":"next","crossOrigin":""}]]}],"segment":"en"},"styles":[]}]}]]}],null]
+6:null
